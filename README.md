@@ -1,4 +1,5 @@
 ## TryHackMe Desktop Application
+A following application is based on a project called [nativefier](https://github.com/jiahaog/Nativefier) which allows to turn any web page into a desktop application.
 ![ScreenShot](https://i.imgur.com/QXLXiZp.png)
 
 ## Requirements
