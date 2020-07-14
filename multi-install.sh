@@ -3,6 +3,8 @@
 echo "+-+-+-+-+-+-+-+-+-+ +-+-+-+ +-+-+-+-+-+-+-+-+-+ \n|T|r|y|H|a|c|k|M|e| |G|U|I| |I|n|s|t|a|l|l|e|r| \n+-+-+-+-+-+-+-+-+-+ +-+-+-+ +-+-+-+-+-+-+-+-+-+"
 echo ""
 
+sudo npm -g install nativefier
+
 mkdir tryhackme && cd tryhackme
 
 wget https://i.imgur.com/HiIWSQq.png -O icon.png
