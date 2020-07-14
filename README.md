@@ -3,6 +3,10 @@ A following application is based on a project called [nativefier](https://github
 
 ![ScreenShot](https://i.imgur.com/QXLXiZp.png)
 
+## Why?
+- A huge increase in website loading speed due to the absence of unnecessary loads and plugins.
+- A clear and native interface which omits usage of a browser.
+
 ## Requirements
 
 - Ubuntu & Debian based (+ MacOS)
