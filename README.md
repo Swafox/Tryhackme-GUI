@@ -30,6 +30,8 @@ Run the following commands in the exact same order
 ```
 mkdir tryhackme && cd tryhackme
 
+sudo npm -g install nativefier
+
 wget https://i.imgur.com/HiIWSQq.png -O icon.png
 
 nativefier -p linux -a x64 -i icon.png --disable-context-menu --disable-dev-tools --single-instance --internal-urls ".*" https://tryhackme.com/
