@@ -29,24 +29,6 @@ sudo dnf install npm
 Run multi-install.sh like so:
 `sh multi-install.sh`
 
-## Manual Installation
-Run the following commands in the exact same order
-```
-mkdir tryhackme && cd tryhackme
-
-sudo npm -g install nativefier
-
-wget https://i.imgur.com/HiIWSQq.png -O icon.png
-
-nativefier -p linux -a x64 -i icon.png --disable-context-menu --disable-dev-tools --single-instance --internal-urls ".*" https://tryhackme.com/
-
-mv TryHackMeLearnCybersecurity-linux-x64 TryHackMe && cd TryHackMe && mv TryHackMeLearnCybersecurity TryHackMe 
-
-chmod 777 TryHackMe
-
-./TryHackMe
-```
-
 ## Extra
 It is recommended to add the application to **/opt** folder for ease of usage.
 ```
