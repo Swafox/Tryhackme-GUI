@@ -3,7 +3,7 @@ TryHackMe Desktop Application (GUI)
 </h1>
 <p align="center">
 TryHackMe Desktop Application (GUI)
-TryHackMe GUI is plug-and-play chromium-based application that allows you to browse and interact with TryHackMe.com without needing to lauch a browser. <br>
+TryHackMe GUI is plug-and-play chromium-based application that allows you to interact with TryHackMe.com without needing to lauch a browser. <br>
   <i>Inspired by https://github.com/nativefier/nativefier</i>
 </p>
 <hr>
