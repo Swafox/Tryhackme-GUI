@@ -13,7 +13,7 @@ TryHackMe GUI is plug-and-play chromium-based application that allows you to bro
 | <p align="center"><a href="https://github.com/Swafox/tryhackme-gui">🖥️ Windows | <p align="center"><a href="https://github.com/Swafox/tryhackme-gui">🐧 Linux |
 | --------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | <p align="center"><img src="https://cdn.svgporn.com/logos/microsoft-windows.svg" width="150" height="150" /></p>    | <p align="center"><img src="https://cdn.svgporn.com/logos/linux-tux.svg" width="150" height="150" /></p>                |
-| <a href="WINDOWS"> Windows install                             | <a href="LINUXINSTALL"> Linux install                                              |
+| <a href="https://github.com/Swafox/tryhackme-gui#windows-install"> Windows install                             | <a href="https://github.com/Swafox/tryhackme-gui#linux-install"> Linux install                                              |
 
 | Linux                                                                                                                   | Windows
 | ----------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
