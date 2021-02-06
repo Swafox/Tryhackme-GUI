@@ -20,7 +20,7 @@ TryHackMe GUI is plug-and-play chromium-based application that allows you to bro
 | ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/ciphey/ciphey/Python%20application?label=Linux) | ![GitHub Workflow Status](https://img.shields.io/github/checks-status/Swafox/tryhackme-gui/1.1?color=green&label=Windows&logo=Windows) | ![GitHub Workflow Status](https://img.shields.io/github/checks-status/Swafox/tryhackme-gui/1.1?color=green&label=Linux&logo=Linux) |
 <hr>
 
-## Why do you need to use it?
+## ❓ Why do you need to use it?
 - A huge increase in website loading speed due to the absence of unnecessary loads and plugins.
 - A clear and native interface.
 - Minimal system usage: No more than 4-5% CPU
